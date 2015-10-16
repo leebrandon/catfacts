@@ -1,0 +1,6 @@
+[settings]
+CAT_FACTS_API_URL=http://catfacts-api.appspot.com/api/facts
+ACCOUNT_SID=
+AUTH_TOKEN=
+TO_NUMBER=
+FROM_NUMBER=
